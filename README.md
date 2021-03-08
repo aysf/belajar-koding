@@ -13,9 +13,9 @@ kecuali html dan css, setiap bahasa pemograman memiliki materi standard untuk di
 yang hampir mirip diantaranya sebagai berikut
 
 1. Tipe Data (mengenal tipe data, cara mengecek tipe data, dst)
-  1. standard
-  2. koleksi
-  3. custom
+    1. standard
+    2. koleksi
+    3. custom
 2. Variable (mengenal jenis-jenis variable, cara membuat variable)
 3. String (mengenal operasi pada string dan cara menggunakannya)
 4. Number (mengenal tipe data yang digunakan untuk bilangan)
