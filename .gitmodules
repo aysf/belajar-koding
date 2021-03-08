@@ -7,3 +7,6 @@
 [submodule "python"]
 	path = python
 	url = https://github.com/aysf/belajar-python.git
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/aysf/belajar-ruby.git
