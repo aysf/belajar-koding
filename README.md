@@ -19,3 +19,8 @@ yang hampir mirip diantaranya sebagai berikut
 2. Variable (mengenal jenis-jenis variable, cara membuat variable)
 3. String (mengenal operasi pada string dan cara menggunakannya)
 4. Number (mengenal tipe data yang digunakan untuk bilangan)
+
+## Referensi Belajar
+
+1. [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
