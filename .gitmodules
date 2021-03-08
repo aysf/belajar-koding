@@ -10,3 +10,6 @@
 [submodule "ruby"]
 	path = ruby
 	url = https://github.com/aysf/belajar-ruby.git
+[submodule "rust"]
+	path = rust
+	url = https://github.com/aysf/belajar-rust.git
