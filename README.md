@@ -24,3 +24,9 @@ yang hampir mirip diantaranya sebagai berikut
 
 1. [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
+## Web Development
+framework atau sistem manajemen konten (CMS) untuk membangun website bedasarkan bahasa pemogramman yang digunakan adalah sbb:
+1. Python > Lektor, Pelican, Nikola, Flask, Django, Django-cms
+2. Ruby > [Rails](https://rubyonrails.org/), [Middleman]https://middlemanapp.com/, [Jekyll](https://jekyllrb.com/), [SpinaCMS](https://www.refinerycms.com/), [Locomotive](https://www.locomotivecms.com/), [Bridgetownrb](https://www.bridgetownrb.com/), [Refinerycms](https://www.refinerycms.com/)
+3. PHP > [Wordpress](https://github.com/WordPress/WordPress), CodeIgniter, Laravel, Phalcon, CakePHP
+
