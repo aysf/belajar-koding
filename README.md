@@ -16,9 +16,13 @@ yang hampir mirip diantaranya sebagai berikut
     1. standard
     2. koleksi
     3. custom
-2. Variable (mengenal jenis-jenis variable, cara membuat variable)
-3. String (mengenal operasi pada string dan cara menggunakannya)
+2. Variable & Constant
+    1. How to assign a variable or constant
+3. Tipe Data String
+    3. String Concatenation
+    4. String Interpolation
 4. Number (mengenal tipe data yang digunakan untuk bilangan)
+5. Collection (tipe data koleksi seperti Array dan Hash pada Ruby)
 
 ## Referensi Belajar
 
