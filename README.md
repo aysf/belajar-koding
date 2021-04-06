@@ -19,8 +19,8 @@ yang hampir mirip diantaranya sebagai berikut
 2. Variable & Constant
     1. How to assign a variable or constant
 3. Tipe Data String
-    3. String Concatenation
-    4. String Interpolation
+    1. String Concatenation
+    2. String Interpolation
 4. Number (mengenal tipe data yang digunakan untuk bilangan)
 5. Collection (tipe data koleksi seperti Array dan Hash pada Ruby)
 
