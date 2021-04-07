@@ -12,13 +12,22 @@ sebuah repository yang berisi konten-konten untuk belajar koding
 kecuali html dan css, setiap bahasa pemograman memiliki materi standard untuk dipelajari
 yang hampir mirip diantaranya sebagai berikut
 
-1. Tipe Data (mengenal tipe data, cara mengecek tipe data, dst)
-    1. standard
-    2. koleksi
-    3. custom
-2. Variable (mengenal jenis-jenis variable, cara membuat variable)
-3. String (mengenal operasi pada string dan cara menggunakannya)
-4. Number (mengenal tipe data yang digunakan untuk bilangan)
+
+1. Basic Syntax 
+    1. print (atau puts pada ruby): menampilkan hasil pada terminal
+    2. variable atau constant assignment
+2. Tipe Data (mengenal tipe data, cara mengecek tipe data)
+    1. Tipe data standard
+        1. Strings
+            1. Concatenation
+            2. Interpolation
+        3. Numbers (e.g. integer, float)
+        4. Bools
+    2. Tipe data koleksi
+        1. Arrays
+        2. Hashes
+3. Conditionals (if else, case with)
+4. Iteration (for loop, while loop)
 
 ## Referensi Belajar
 
