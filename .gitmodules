@@ -13,3 +13,6 @@
 [submodule "rust"]
 	path = rust
 	url = https://github.com/aysf/belajar-rust.git
+[submodule "c-programming"]
+	path = c-programming
+	url = https://github.com/aysf/c-programming.git
