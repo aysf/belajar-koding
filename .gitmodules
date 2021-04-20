@@ -16,3 +16,6 @@
 [submodule "c-programming"]
 	path = c-programming
 	url = https://github.com/aysf/c-programming.git
+[submodule "shell"]
+	path = shell
+	url = https://github.com/aysf/shell.git
