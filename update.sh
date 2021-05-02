@@ -10,11 +10,11 @@ while [ ${count} -lt ${#programs[@]} ]; do
     cd ${programs[count]}
     git add .
     git commit -m "$comments"
-    git push
+    git push origin main
     cd ..
     count=$((count+1))
 done
 
 git add .
 git commit -m "$comments"
-git push
+git push origin main
