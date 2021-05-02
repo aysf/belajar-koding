@@ -8,6 +8,7 @@ programs=($(ls -d */));
 count=0
 while [ ${count} -lt ${#programs[@]} ]; do
     cd ${programs[count]}
+    git checkout main
     git add .
     git commit -m "$comments"
     git push origin main
