@@ -7,6 +7,7 @@ sebuah repository yang berisi konten-konten untuk belajar koding
 3. Python  
 4. Ruby  
 5. Rust
+6. Shell
 
 ## Materi Pemograman  
 kecuali html dan css, setiap bahasa pemograman memiliki materi standard untuk dipelajari
