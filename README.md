@@ -1,5 +1,6 @@
 # belajar-koding
-sebuah repository yang berisi konten-konten untuk belajar koding
+> _I think by understanding what's going on behind the scene it's gonna make you a much better developer_
+
 
 ## Bahasa Pemograman
 1. HTML + CSS
