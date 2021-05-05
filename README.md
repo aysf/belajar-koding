@@ -33,7 +33,8 @@ yang hampir mirip diantaranya sebagai berikut
 
 ## Referensi Belajar
 
-1. [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+1. [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) is very recommended for learning javaScript
+2. 
 
 ## Web Development
 framework atau sistem manajemen konten (CMS) untuk membangun website bedasarkan bahasa pemogramman yang digunakan adalah sbb:
