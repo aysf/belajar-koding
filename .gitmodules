@@ -19,3 +19,7 @@
 [submodule "shell"]
 	path = shell
 	url = https://github.com/aysf/shell.git
+[submodule "php"]
+	path = php
+	url = https://github.com/aysf/belajar-php.git
+	branch = main
