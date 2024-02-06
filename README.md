@@ -8,12 +8,15 @@
 3. Python  
 4. Ruby  
 5. Rust
-6. Shell
+6. Java
+7. Golang
+8. Shell
 
 ## Materi Pemograman  
 kecuali html dan css, setiap bahasa pemograman memiliki materi standard untuk dipelajari
 yang hampir mirip diantaranya sebagai berikut
 
+### Basic
 
 1. Basic Syntax 
     1. print (atau puts pada ruby): menampilkan hasil pada terminal
@@ -31,10 +34,16 @@ yang hampir mirip diantaranya sebagai berikut
 3. Conditionals (if else, case with)
 4. Iteration (for loop, while loop)
 
+### Practice
+
+1. buat counter seperti 3..2..1..Go
+2. buat program cli pilihan menu makanan
+
+
 ## Referensi Belajar
 
 1. [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) is very recommended for learning javaScript
-2. 
+2. [Bro Code](https://www.youtube.com/@BroCodez)
 
 ## Web Development
 framework atau sistem manajemen konten (CMS) untuk membangun website bedasarkan bahasa pemogramman yang digunakan adalah sbb:
