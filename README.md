@@ -33,6 +33,8 @@ yang hampir mirip diantaranya sebagai berikut
         2. Hashes
 3. Conditionals (if else, case with)
 4. Iteration (for loop, while loop)
+    1. for-each: travesing technique to iterate through the elements in array/collection
+
 
 ### Practice
 
